@@ -6,6 +6,3 @@ for (const item of movementArr){
     process.stdout.write(`\r${item}   `);
   }, cunt)
 };
-// change
-
-
